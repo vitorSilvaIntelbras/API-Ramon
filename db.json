@@ -1,0 +1,35 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "nome": "Smartphone",
+            "descricao": "UlTIMA GERAÇÃO",
+            "preco": 1500,
+            "imagem": "smartphone.png",
+            "qualidade": "Novo"
+        },
+        {
+            "id": 2,
+            "nome": "Notebook",
+            "descricao": "Intel I9",
+            "preco": 8000,
+            "imagem": "notebook.png",
+            "qualidade": "semi novo"
+        },
+        {
+            "id": 3,
+            "nome": "Pc Gamer",
+            "descricao": "PC potente",
+            "preco": 28000,
+            "imagem": "pcgamer.png",
+            "qualidade": "Novo"
+        },
+        {
+            "nome": "Skate",
+            "descricao": "black ALL",
+            "preco": 200,
+            "imagem": "smartphone.png",
+            "id": "8c5edea6-9ae0-4bb9-9891-aa08f34954bd"
+        }
+    ]
+}
